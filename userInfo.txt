@@ -1,0 +1,3 @@
+Username:
+Password: 
+Number of Photos to like: 150

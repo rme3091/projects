@@ -1,0 +1,1 @@
+"C:\Users\Bob\AppData\Local\Programs\Python\Python38\python.exe" "C:\Users\Bob\Desktop\Python\Selenium\Instagram\instagram.py"
