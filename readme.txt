@@ -7,4 +7,4 @@ etc
 
 2) Enter username, password, and number of photos to like in 'userInfo.txt'
 
-Double-click instagram application
+Double-click bat file
